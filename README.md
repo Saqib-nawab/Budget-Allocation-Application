@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Contributions are always welcome!
 
 ## Screenshots for sure
-![Application Image]([image_url](https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing)https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing)
+[Application Image]([image_url](https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing)https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing).
 
 
 

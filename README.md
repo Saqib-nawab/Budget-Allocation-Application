@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Contributions are always welcome!
 
 ## Screenshots for sure
-<img width="1280" alt="Снимок экрана 2023-08-04 в 21 17 33" src="https://github.com/commmpotte/budget_app/assets/95095531/1814cabf-b099-46f1-9d1f-be95b82e828b">
+![Application Image]([image_url](https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing)https://drive.google.com/file/d/1DXdnMfvZK5lGrFvCcnRwiE5wP3Klj5rT/view?usp=sharing)
 
 
 
